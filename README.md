@@ -1,3 +1,5 @@
+> [!CAUTION] 
+> DEPRECATED! Use https://github.com/dnjulek/vapoursynth-zip
 ## MTCombMask
 
 This filter produces a mask showing areas that are combed. MTCombMask uses 3-point sampling to determine combing in a pixel.
